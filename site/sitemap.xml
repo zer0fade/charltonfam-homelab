@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://zer0fade.github.io/charltonfam-homelab/</loc>
+         <lastmod>2025-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://zer0fade.github.io/charltonfam-homelab/automation/</loc>
+         <lastmod>2025-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://zer0fade.github.io/charltonfam-homelab/compute/</loc>
+         <lastmod>2025-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://zer0fade.github.io/charltonfam-homelab/monitoring/</loc>
+         <lastmod>2025-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://zer0fade.github.io/charltonfam-homelab/networking/</loc>
+         <lastmod>2025-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://zer0fade.github.io/charltonfam-homelab/roadmap/</loc>
+         <lastmod>2025-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://zer0fade.github.io/charltonfam-homelab/security/</loc>
+         <lastmod>2025-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://zer0fade.github.io/charltonfam-homelab/storage/</loc>
+         <lastmod>2025-04-26</lastmod>
+    </url>
+</urlset>

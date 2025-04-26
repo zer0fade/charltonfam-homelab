@@ -1,0 +1,26 @@
+site_name: Charlton Family Home Lab
+site_url: https://zer0fade.github.io/charltonfam-homelab/
+repo_url: https://github.com/zer0fade/charlton-home-lab-docs
+repo_name: CharltonFam Home Lab Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+nav:
+  - Home: index.md
+  - Networking: networking.md
+  - Compute: compute.md
+  - Storage: storage.md
+  - Security: security.md
+  - Monitoring: monitoring.md
+  - Automation: automation.md
+  - Roadmap: roadmap.md
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
